@@ -8,4 +8,5 @@ Currently focusing on:
 - HTTP, APIs
 - Git and GitHub
 
-This profile reflects my learning process, small practice projects, and continuous improvement.
+This GitHub profile reflects my learning process, practice projects, and a return to front end development with a fresh perspective.
+
